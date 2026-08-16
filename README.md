@@ -1,18 +1,18 @@
 # João Pedro 🍃
 
-🚀 **Computer Science Undergraduate Student | Aspiring Software Developer**  
+📚 **Computer Science Undergraduate Student | Aspiring Software Developer**  
 🇧🇷 Brazil
 
 ---
 
-## 🌐 Where to find me
+## 🧭 Where to find me
 
 <p align="left">
   <a href="https://github.com/jp-dev1804">
     <img src="https://img.shields.io/badge/GitHub-JOÃOPEDROCALAÇA-181717?style=for-the-badge&logo=github" />
 </a>
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 
 ### Backend
@@ -28,7 +28,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📌 GitHub Stats
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
