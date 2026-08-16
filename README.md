@@ -13,8 +13,8 @@
 </a>
 
 <p align="left">
-  <a href="https://www.instagram.com/joaop.1804?igsh=MTdmNWtzeG4wcnBtMA==">
-    <img src="https://img.shields.io/badge/Instagram-JOÃOPEDRO-E1306C?style=for-the-badge&logo=instagram" />
+  <a href="https://www.instagram.com/joaop.1804-E1306C?igsh=MTdmNWtzeG4wcnBtMA==">
+    <img src="https://img.shields.io/badge/Instagram-JOÃOPEDRO-181717?style=for-the-badge&logo=instagram" />
 </a>
 
 ## 💻 Tech Stack
