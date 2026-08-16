@@ -22,9 +22,9 @@
 
 ### DevOps & Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
-![VSCode](https://img.shields.io/badge/VSCode-F24E1E?style=for-the-badge&logo==VSCode)
+![Git](https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git)
+![Figma](https://img.shields.io/badge/Figma-6B7280?style=for-the-badge&logo=figma)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo==VSCode)
 
 ---
 
