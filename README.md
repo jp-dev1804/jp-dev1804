@@ -1,4 +1,4 @@
-# Hi 👋, I'm João Pedro 
+# João Pedro 🍃
 
 🚀 **Computer Science Undergraduate Student | Aspiring Software Developer**  
 🇧🇷 Brazil
