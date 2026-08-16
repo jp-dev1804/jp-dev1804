@@ -8,7 +8,7 @@
 ## 🌐 Where to find me
 
 <p align="left">
-  <a href="https://https://github.com/jp-dev1804">
+  <a href="https://github.com/jp-dev1804">
     <img src="https://img.shields.io/badge/GitHub-JOÃOPEDROCALAÇA-181717?style=for-the-badge&logo=github" />
 </a>
 
