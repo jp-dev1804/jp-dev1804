@@ -14,7 +14,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/joaop.1804?igsh=MTdmNWtzeG4wcnBtMA==">
-    <img src="https://img.shields.io/badge/Instagram-JOAOPEDRO-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4" />
+    <img src="https://img.shields.io/badge/Instagram-JOAOPEDRO-181717?style=for-the-badge&logo=instagram&logoColor=white&labelColor=833AB4" />
   </a>
 </p>
 
