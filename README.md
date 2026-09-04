@@ -22,7 +22,6 @@
 
 ### Backend
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
 ![Python](https://img.shields.io/badge/Python-2D3748?style=for-the-badge&logo=python)
 
 ### DevOps & Tools
